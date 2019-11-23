@@ -4,7 +4,7 @@ int main()
 {
 cout<<"\n**************************************************************************";
 cout<<"\nProgrammer :  Sohail Zia Gill.";
-cout<<"\nTitle: The lowest or minimun number in 1 D Array .";
+cout<<"\nTitle: The repesentation of matrix through 1 D Array .";
 cout<<"\nCompiler : Visual Studio 19 and Dev c++  ";
 cout<<"\nCopy Rights are Reserved and please donot copy it";
 cout<<"\nIslamic International University Islamabad.";
