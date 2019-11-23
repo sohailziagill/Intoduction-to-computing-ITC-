@@ -1,1 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int i=0, list[10];
+	for( i;i<10;++i)
+	{
+		list[i]=i;	
+		cout<<list[i]<<"\t";
+	}
 
+	return 0;
+}
